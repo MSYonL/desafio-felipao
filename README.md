@@ -1,4 +1,4 @@
-🛡️ Classificador de Nível de Herói
+<h2 align="center">🛡️ Classificador de Nível de Herói</h2>
 <p align="center">
   <img src="golen.gif" alt="GIF de um Golem de Pedra" width="300px">
 </p>
